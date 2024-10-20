@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Yigit</h1>
 <h3 align="center">I'm a Computer Engineering student at Karadeniz Technical University, focusing on mobile development. I love learning new technologies and building innovative solutions.</h3>
+<img align="right" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/1/2/0/6/2626021_067b7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yybacik&label=Profile%20views&color=0e75b6&style=flat" alt="yybacik" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Swift, JavaScript**
 
-- 👯 I’m looking to collaborate on [BanKan](https://github.com/arafkubraa/BanKan)
+- 👯 I’m looking to collaborate on [BanKan](https://github.com/yybacik/BanKan)
 
 - 💬 Ask me about **Swift and Kotlin**
 
@@ -29,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yybacik&show_icons=true&locale=en" alt="yybacik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yybacik&" alt="yybacik" /></p>
+
