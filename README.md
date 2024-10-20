@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Yusuf Yigit</h1>
 <h3 align="center">I'm a Computer Engineering student at Karadeniz Technical University, focusing on mobile development. I love learning new technologies and building innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/1/2/0/6/2626021_067b7.gif">
@@ -20,6 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yusufbacik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufbacik" height="30" width="40" /></a>
 <a href="https://instagram.com/yybacik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yybacik" height="30" width="40" /></a>
+<a href="https://medium.com/@yybacik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yybacik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yybacik&show_icons=true&locale=en" alt="yybacik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yybacik&" alt="yybacik" /></p>
-
