@@ -1,6 +1,6 @@
 # Hi, I'm Yusuf Yigit
 
-Computer Engineering Student at Karadeniz Technical University
+Project managment specialist at @tarvinaTech
 
 ## About Me
 
@@ -20,12 +20,7 @@ Feel free to check out my projects, reach out if you want to chat about tech, or
 - [Instagram](https://instagram.com/yybacik)
 - [Medium](https://medium.com/@yybacik)
 
-## Languages & Tools
-
-Swift, Kotlin, JavaScript, Python, C, C++, HTML, CSS
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yybacik&show_icons=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yybacik&layout=compact&langs_count=8)
